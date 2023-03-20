@@ -30,8 +30,7 @@ out/
 ### VS Code ###
 .vscode/
 
-### Package Files ###
-*.jar
+### Package Files ###ß
 *.war
 *.nar
 *.ear
